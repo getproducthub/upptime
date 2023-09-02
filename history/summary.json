@@ -22,7 +22,7 @@
     "url": "https://productbot.ai",
     "icon": "https://icons.duckduckgo.com/ip3/productbot.ai.ico",
     "slug": "productbot-ai-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-02": 0
+    }
   }
 ]
