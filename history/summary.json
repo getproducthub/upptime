@@ -22,19 +22,19 @@
     "url": "https://productbot.ai",
     "icon": "https://icons.duckduckgo.com/ip3/productbot.ai.ico",
     "slug": "productbot-ai-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 218,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 234,
+    "timeDay": 241,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-09-02": 0
+      "2023-09-02": 8
     }
   }
 ]
