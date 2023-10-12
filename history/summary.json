@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.productbot.ai.ico",
     "slug": "productbot-ai-application",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "42.94%",
+    "uptime": "98.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.72%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "98.68%",
-    "time": 310,
-    "timeDay": 263,
-    "timeWeek": 269,
-    "timeMonth": 283,
-    "timeYear": 310,
+    "uptimeYear": "98.71%",
+    "time": 313,
+    "timeDay": 361,
+    "timeWeek": 293,
+    "timeMonth": 291,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2023-10-10": 835
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 340,
-    "timeWeek": 231,
-    "timeMonth": 197,
-    "timeYear": 209,
+    "time": 213,
+    "timeDay": 471,
+    "timeWeek": 261,
+    "timeMonth": 207,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   }
 ]
